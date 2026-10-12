@@ -1,4 +1,4 @@
-# Source Engineering -- Model
+# Model
 
 > The canonical conceptual and data model. What the discipline thinks in, what the architecture composes from, what the specifications specify against.
 
@@ -6,9 +6,9 @@ This repository holds the discipline's formal model. It defines the concepts the
 
 ## What is in this repository
 
-- `model.md` -- the canonical conceptual model. Five named stages, each with named entities, named relationships, and named questions the stage answers.
-- `entities.md` -- the data model. The minimum set of entities and their relationships, expressed in a way that maps to JSON or to a typed schema.
-- `integrity-questions.md` -- the five central integrity questions that drive the specifications. Each integrity question names a property the system must satisfy and the failure mode it prevents.
+- `model.md` - the canonical conceptual model. Five named stages, each with named entities, named relationships, and named questions the stage answers.
+- `entities.md` - the data model. The minimum set of entities and their relationships, expressed in a way that maps to JSON or to a typed schema.
+- `integrity-questions.md` - the five central integrity questions that drive the specifications. Each integrity question names a property the system must satisfy and the failure mode it prevents.
 
 ## How to engage
 
